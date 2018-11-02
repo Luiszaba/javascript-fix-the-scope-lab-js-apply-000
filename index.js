@@ -13,10 +13,8 @@ function yourAnimal() {
 }
 
 function add2(n) {
-<<<<<<< HEAD
+
   const two = 2;
-  return n + two;
-=======
   return 94 + two;
 
   // Feel free to move things around!
